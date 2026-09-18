@@ -165,46 +165,7 @@ https://printzilla77.github.io/luna/
 
 ---
 
-# Programming NFC Tags
 
-Write only the pet URL to the NFC tag.
-
-Example:
-
-```text
-https://printzilla77.github.io/oj/
-```
-
-Do not store personal details on the tag.
-
-This allows updates without reprogramming the NFC tag.
-
----
-
-# Recommended NFC Tags
-
-NTAG213
-
-Memory:
-```text
-144 bytes
-```
-
-Suitable for:
-- URL links
-- Pet profiles
-- QR backups
-
-NTAG215
-
-Memory:
-```text
-504 bytes
-```
-
-Suitable for:
-- Larger URLs
-- Additional NFC applications
 
 ---
 
@@ -242,8 +203,6 @@ Suitable for:
 
 # Printzilla77 NFC Pet Tags
 
-Powered by GitHub Pages
-
-
 - Any pet that might wander off 🐶🐱🦖# printzilla77.github.io
-🦖 Custom NFC pet tags by Printzilla. Scan to view pet profiles, contact owners via WhatsApp, and help lost pets find their way home. / 🦖 Printzilla NFC Pet Tags. Etiquetas NFC personalizadas para mascotas con perfiles digitales, contacto por WhatsApp y herramientas para ayudar a que regresen a casa de forma segura.
+🦖 Custom NFC pet tags by Printzilla. Scan to view pet profiles, contact owners via WhatsApp, and help lost pets find their way home.
+🦖 Printzilla NFC Pet Tags. Etiquetas NFC personalizadas para mascotas con perfiles digitales, contacto por WhatsApp y herramientas para ayudar a que regresen a casa de forma segura.
